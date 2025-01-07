@@ -1,0 +1,12 @@
+﻿.env
+
+
+bin/
+obj/
+
+
+.vs/
+.vscode/
+
+
+*.nupkg
